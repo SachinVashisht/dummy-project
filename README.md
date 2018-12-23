@@ -8,7 +8,7 @@ dummy
 		<meta name="description" content="Elexer is a stunning photography website template">
         <meta name="author" content="TeamXcel">
        
-        <title>Elexer | Photography Website Template</title>
+        <title>Elexer | Photography Website </title>
         
 		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
 		
